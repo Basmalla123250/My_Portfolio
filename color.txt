@@ -1,0 +1,9 @@
+    #FFF5EF
+    #2C2323
+    #E59A9E
+    #D6737A
+    #C35B63
+    #7E2F39
+    #DDB08A
+    #F7E7DF
+    #F0C9C2
